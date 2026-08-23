@@ -6,9 +6,9 @@ I built this because standard physics problems always ignore air drag and treat 
 
 ## Project Structure
 * [`main.cpp`](.code/main.cpp) — The C++ engine that calculates position and velocity over time using RK4 and outputs data.
-* [`plot-data.py`](.scripts/plot-data.py) — Python script that reads the CSV and generates the visual plot.
-* [`trajectory.csv`](.images/trajectory.csv) — Output dataset containing raw spatial telemetry.
-* [`trajectory.png`](.images/trajectory.png) — Rendered trajectory graph.
+* [`plot-data.py`](./scripts/plot-data.py) — Python script that reads the CSV and generates the visual plot.
+* [`trajectory.csv`](./images/trajectory.csv) — Output dataset containing raw spatial telemetry.
+* [`trajectory.png`](./images/trajectory.png) — Rendered trajectory graph.
 
 ## How to run it
 
